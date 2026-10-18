@@ -1,1 +1,1 @@
-!o::Run('pythonw.exe "C:\Users\Adithya\Documents\image2txt\image2txt_win.pyw"')
+!o::Run('pythonw.exe "C:\Users\Adithya\Documents\image2txt\windows\image2txt.pyw"')
