@@ -1,2 +1,6 @@
 Pillow>=10.0.0
 pytesseract>=0.3.10
+pyperclip>=1.8.2
+
+# Windows toast notifications
+win11toast>=0.4.8; sys_platform == 'win32'
